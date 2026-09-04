@@ -1,0 +1,116 @@
+                                    <div class="col-xs-12" style="padding: 0 !important; padding-top: 1% !important;">
+                                        <h2>Galería de imágenes</h2>
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading">
+                                                <h3 style="margin-bottom: 0px !important;"><a
+                                                        class="accordion-toggle collapsed" style="color: #58595b;"
+                                                        href="#collapseOne" data-toggle="collapse"
+                                                        data-parent="#accordion">Cali</a></h3>
+                                            </div>
+                                            <div id="collapseOne" class="panel-collapse collapse" style="height: 0px;">
+                                                <div class="panel-body">
+                                                    <p>Fotos de las inspecciones realizadas en la ciudad de Cali. <a
+                                                            href="https://drive.google.com/drive/folders/1uFkQiqttxrkKcK8sKkYhTPTMGd-qNq2y?usp=drive_link"
+                                                            target="_blank" rel="noopener noreferrer">Ver imágenes</a>
+                                                    </p>
+                                                    <a href="https://drive.google.com/drive/folders/1uFkQiqttxrkKcK8sKkYhTPTMGd-qNq2y?usp=drive_link"
+                                                        target="_blank" rel="noopener noreferrer"> <img
+                                                            class="img-responsive"
+                                                            src="https://res.cloudinary.com/zgv05o6i/image/upload/v1787921500/Recurso_1.png"
+                                                            alt="Cali" /> </a>
+                                                </div>
+                                            </div>
+                                            <div class="panel-heading">
+                                                <h3 style="margin-bottom: 0px !important;"><a
+                                                        class="accordion-toggle collapsed" style="color: #58595b;"
+                                                        href="#collapseTwo" data-toggle="collapse"
+                                                        data-parent="#accordion">Municipios del Valle del Cauca</a></h3>
+                                            </div>
+                                            <div id="collapseTwo" class="panel-collapse collapse" style="height: 0px;">
+                                                <div class="panel-body">
+                                                    <p>Fotos de las inspecciones realizadas en los diferentes
+                                                        municipios. <a
+                                                            href="https://drive.google.com/drive/folders/1X97xBozIQu4XPROriPR4IYR8HKwy95DH?usp=drive_link"
+                                                            target="_blank" rel="noopener noreferrer">Ver imágenes</a>
+                                                    </p>
+                                                    <p><strong>Visita tecnica - Versalles</strong></p>
+                                                    <a href="https://drive.google.com/drive/folders/1X97xBozIQu4XPROriPR4IYR8HKwy95DH?usp=drive_link"
+                                                        target="_blank" rel="noopener noreferrer"> <img
+                                                            class="img-responsive"
+                                                            src="https://res.cloudinary.com/zgv05o6i/image/upload/v1787922601/Versalles.png"
+                                                            alt="Versalles" /> </a>
+                                                    <p style="margin-top: 20px;"><strong>Visita tecnica - El
+                                                            Cairo</strong></p>
+                                                    <a href="https://drive.google.com/drive/folders/1X97xBozIQu4XPROriPR4IYR8HKwy95DH?usp=drive_link"
+                                                        target="_blank" rel="noopener noreferrer"> <img
+                                                            class="img-responsive"
+                                                            src="https://res.cloudinary.com/zgv05o6i/image/upload/v1788189991/vt-ElCairo.png"
+                                                            alt="El Cairo" /> </a>
+                                                    <p style="margin-top: 20px;"><strong>Visita tecnica - El
+                                                            Aguila</strong></p>
+                                                    <a href="https://drive.google.com/drive/folders/1X97xBozIQu4XPROriPR4IYR8HKwy95DH?usp=drive_link"
+                                                        target="_blank" rel="noopener noreferrer"> <img
+                                                            class="img-responsive"
+                                                            src="https://res.cloudinary.com/zgv05o6i/image/upload/v1787924612/El_aguila.png"
+                                                            alt="El Aguila" /> </a>
+                                                </div>
+                                            </div>
+                                            <div class="panel-heading">
+                                                <h3 style="margin-bottom: 0px !important;"><a
+                                                        class="accordion-toggle collapsed" style="color: #58595b;"
+                                                        href="#collapseThree" data-toggle="collapse"
+                                                        data-parent="#accordion">Equipos de trabajo</a></h3>
+                                            </div>
+                                            <div id="collapseThree" class="panel-collapse collapse"
+                                                style="height: 0px;">
+                                                <div class="panel-body">
+                                                    <p>Fotografías de ingenieros, estudiantes y egresados durante las
+                                                        jornadas <a
+                                                            href="https://drive.google.com/drive/folders/1XiWaAR6S8jNG_RhwUCXgRgsqeQiVYDh3?usp=drive_link"
+                                                            target="_blank" rel="noopener noreferrer">Ver imágenes</a>
+                                                    </p>
+                                                    <a href="https://drive.google.com/drive/folders/1XiWaAR6S8jNG_RhwUCXgRgsqeQiVYDh3?usp=drive_link"
+                                                        target="_blank" rel="noopener noreferrer"> <img
+                                                            class="img-responsive"
+                                                            src="https://res.cloudinary.com/zgv05o6i/image/upload/v1787921997/Recurso_2.png"
+                                                            alt="Equipos de trabajo" /> </a>
+                                                </div>
+                                            </div>
+                                            <div class="panel-heading">
+                                                <h3 style="margin-bottom: 0px !important;"><a
+                                                        class="accordion-toggle collapsed" style="color: #58595b;"
+                                                        href="#collapseFour" data-toggle="collapse"
+                                                        data-parent="#accordion">Evaluación en Campo</a></h3>
+                                            </div>
+                                            <div id="collapseFour" class="panel-collapse collapse" style="height: 0px;">
+                                                <div class="panel-body">
+                                                    <p>Fotografías de inspecciones, toma de información,
+                                                        diligenciamiento de formatos, observación de daños, etc.<a
+                                                            href="https://drive.google.com/drive/folders/1yLJi3P7VgMc2On_D8hl-cI0HQ_fhDyAz?usp=drive_link"
+                                                            target="_blank" rel="noopener noreferrer"> Ver imágenes</a>
+                                                    </p>
+                                                    <p style="margin-top: 20px;"><strong>Evaluación en Campo -
+                                                            Versalles</strong></p>
+                                                    <a href="https://drive.google.com/drive/folders/1yLJi3P7VgMc2On_D8hl-cI0HQ_fhDyAz?usp=drive_link"
+                                                        target="_blank" rel="noopener noreferrer"> <img
+                                                            class="img-responsive"
+                                                            src="https://res.cloudinary.com/zgv05o6i/image/upload/v1787925775/EC-_Versalles.png"
+                                                            alt="Evaluación en Campo" /> </a>
+                                                    <p style="margin-top: 20px;"><strong>Evaluación en Campo - El
+                                                            Cairo</strong></p>
+                                                    <a href="https://drive.google.com/drive/folders/1yLJi3P7VgMc2On_D8hl-cI0HQ_fhDyAz?usp=drive_link"
+                                                        target="_blank" rel="noopener noreferrer"> <img
+                                                            class="img-responsive"
+                                                            src="https://res.cloudinary.com/zgv05o6i/image/upload/v1787926775/EC-_El_Cairo.png"
+                                                            alt="Evaluación en Campo" /> </a>
+                                                    <p style="margin-top: 20px;"><strong>Evaluación en Campo - El
+                                                            Aguila</strong></p>
+                                                    <a href="https://drive.google.com/drive/folders/1yLJi3P7VgMc2On_D8hl-cI0HQ_fhDyAz?usp=drive_link"
+                                                        target="_blank" rel="noopener noreferrer"> <img
+                                                            class="img-responsive"
+                                                            src="https://res.cloudinary.com/zgv05o6i/image/upload/v1787925759/EC_-_El_Aguila.png"
+                                                            alt="Evaluación en Campo" /> </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
